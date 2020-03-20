@@ -1,6 +1,4 @@
-#NAme: A.Suraj Kumar
-#Roll No: 181046037
-#Date: 11-09-18
+
 #Find-S Algorithm 
 
 import random
