@@ -15,11 +15,8 @@ Basic ML Classification algorithm implemented on a shopping mall dataset to pred
    
  2. **Clustering Algorithm**.
  Basic clustering algorithm was implemented on a shopping mall dataset to cluster different groups of customers based on their purchasing     behaviour.
-    - For K-means Clustering click [here](https://github.com/Noopuragr/Machine_Learning/blob/master/Clustering/KMeans.ipynb)
-    ![Kmeans Result](https://github.com/Noopuragr/Machine_Learning/blob/master/Clustering/kmeans.PNG)
-    
-    
-    - For Hierarchial clustering click [here](https://github.com/Noopuragr/Machine_Learning/blob/master/Clustering/Hierarchial_Clustering.ipynb
+    - For K-means Clustering click [here](https://github.com/Noopuragr/Machine_Learning/blob/master/Clustering/KMeans.ipynb)   
+    - For Hierarchial clustering click[here](https://github.com/Noopuragr/Machine_Learning/blob/master/Clustering/Hierarchial_Clustering.ipynb
     
  
   
